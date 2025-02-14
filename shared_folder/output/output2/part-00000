@@ -1,0 +1,4 @@
+Comparing Documents:	doc3.txt and doc1.txt
+Common Words (5):	banana, apple, pear, strawberry, mango
+Unique Words (A ∪ B) (14):	banana, papaya, cherry, kiwi, peach, strawberry, coconut, mango, orange, apple, pear, pineapple, watermelon, melon
+Jaccard Similarity:	0.36
